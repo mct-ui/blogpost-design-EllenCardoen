@@ -99,7 +99,7 @@ img {
 */
 
 h1 {
-    font-family: "Times New Roman", serif;
+    font-family: "Inter UI", "Helvetica Neue", Helvetica, arial, sans-serif;
     font-size: 36px;
     font-weight: normal;
     color: #707070;
@@ -108,6 +108,7 @@ h1 {
 }
 
 h2 {
+    font-family: "Inter UI", "Helvetica Neue", Helvetica, arial, sans-serif;
     font-size: 23px;
     line-height: 32px;
     color: #707070;
@@ -115,6 +116,7 @@ h2 {
 }
 
 h3 {
+    font-family: "Inter UI", "Helvetica Neue", Helvetica, arial, sans-serif;
     font-size: 18px;
     line-height: 24px;
     color: #707070;
